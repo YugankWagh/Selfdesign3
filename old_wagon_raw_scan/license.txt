@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Wagon (Raw Scan)
+* source:	https://sketchfab.com/3d-models/old-wagon-raw-scan-7b328dcc6ed1415cab897e4d57b12adf
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Wagon (Raw Scan)" (https://sketchfab.com/3d-models/old-wagon-raw-scan-7b328dcc6ed1415cab897e4d57b12adf) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
